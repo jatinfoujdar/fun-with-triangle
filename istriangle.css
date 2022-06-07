@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+
+body{
+   margin: 0;
+   font-family: 'Noto Serif', serif;
+    background-color: orangered;
+     text-align: center;
+}
+.container{
+    height: 6vw;
+    background-color:  greenyellow;
+    
+    text-align: left;
+}
+
+
+
+.link{
+    margin: .5rem;
+    font-size: larger;
+    color: black;
+    text-decoration: none;
+}
+
+h1{
+    
+    font-size: xx-large;
+    color: white;
+}
+.input-triangle{
+    display: block;
+    min-width: 35vw;
+    height: 2vw;
+    margin-left: 25rem;
+    font-size: larger;
+}
+label{
+    font-size: larger;
+    color: white;
+    margin-right: 27rem;
+    
+}
+#check-triangle{
+    margin: 1rem;
+    height: 2vw;
+    min-width: 35vw;
+    margin-right: 6rem;
+    background-color: #00ADB5;
+}
+.gt{
+    font-size: 250%;
+     background-color: orangered;
+}
+#output-triangle
+{
+    font-size: larger;
+    color: black;
+}
+
+

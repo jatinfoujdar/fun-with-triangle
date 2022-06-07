@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+
+
+body{
+    margin: 0;
+    font-family: 'Noto Serif', serif;
+     background-color: orangered;
+      text-align: center;
+ }
+ .container{
+     height: 6vw;
+     background-color: greenyellow;
+     
+     text-align: left;
+ }
+ 
+ 
+ 
+ .link{
+     margin: .5rem;
+     font-size: larger;
+     color: black;
+     text-decoration: none;
+ }
+ h1{
+    
+    font-size: xx-large;
+    color: white;
+}
+.formula{
+    border: 1px solid #00ADB5;
+    width: 35vw;
+    
+    font-size: larger;
+    color: white;
+    padding: .6rem;
+    margin-left: 29rem;
+    margin-bottom: 1rem;
+}
+lable{
+    font-size: larger;
+    color: white;
+    margin-right: 19rem;
+    margin-bottom: .8rem;
+}
+.input-area{
+    display: block;
+    width: 35vw;
+    height: 2vw;
+    margin-left: 30rem;
+}
+#btn-check{
+    margin: 1rem;
+    height: 2vw;
+    min-width: 35vw;
+    margin-left: 6rem;
+    background-color: #00ADB5;
+}
+#output{
+    font-size: larger;
+    color: white;
+}
+.gt{
+    font-size: 250%;
+    background-color: orangered;
+}
